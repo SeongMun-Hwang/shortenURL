@@ -1,3 +1,1 @@
-import os
-
-host = os.environ['HOST'] #환경변수 사용
+host = "localhost:8000"
